@@ -1,0 +1,13 @@
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\bin\Debug\GamePlatform.exe.config
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\bin\Debug\GamePlatform.exe
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\bin\Debug\GamePlatform.pdb
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.csprojAssemblyReference.cache
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.Form1.resources
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.Properties.Resources.resources
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.Character.resources
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.csproj.GenerateResource.cache
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.csproj.CoreCompileInputs.cache
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.exe
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.pdb
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.Enemy.resources
+D:\Project\Game\Baitapth\WindowsFormsApp1\GamePlatform\obj\Debug\GamePlatform.Coin.resources
